@@ -2,7 +2,12 @@
 
 <!--
 **ompati0001/ompati0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+💻 Code | Learn | Build | Repeat
+⚡ Developer in Progress
+💻 Exploring Software Engineering
+🤖 AI/ML | Data Science | Cloud Computing
+🔥 Learning by building real-world projects
+🌍 Open to collaboration.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
